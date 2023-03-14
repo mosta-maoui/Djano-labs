@@ -1,2 +1,2 @@
-# Djano-labs
+# Django-labs
 Meta-Django-Web
